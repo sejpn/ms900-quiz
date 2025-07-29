@@ -1,1002 +1,1502 @@
 [
   {
-    "text": "Vilken licens passar bäst för scenario 1?",
+    "text": "Vad gör Azure AD Premium P1?",
     "options": [
-      "Microsoft 365 Business Basic",
-      "Microsoft 365 Business Standard",
-      "Microsoft 365 Business Premium",
-      "Office 365 E1"
-    ],
-    "correct": "C"
-  },
-  {
-    "text": "Vad är syftet med funktion 2 i Microsoft 365?",
-    "options": [
-      "Öka säkerheten",
-      "Analysera data",
-      "Hantera licenser",
-      "Spara dokument"
+      "Ger avancerad identitetshantering",
+      "Installerar Word och Excel",
+      "Skapar SharePoint-webbplatser",
+      "Lagrar filer i OneDrive"
     ],
     "correct": "A"
   },
   {
-    "text": "Vilken Microsoft 365-tjänst används främst för scenario 3?",
+    "text": "Vilken plan är en SaaS-lösning från Microsoft?",
     "options": [
-      "Exchange Online",
-      "SharePoint Online",
-      "Teams",
-      "OneDrive for Business"
-    ],
-    "correct": "B"
-  },
-  {
-    "text": "Vilken licens passar bäst för scenario 4?",
-    "options": [
-      "Microsoft 365 Business Basic",
-      "Microsoft 365 Business Standard",
-      "Microsoft 365 Business Premium",
-      "Office 365 E1"
-    ],
-    "correct": "C"
-  },
-  {
-    "text": "Vad är syftet med funktion 5 i Microsoft 365?",
-    "options": [
-      "Öka säkerheten",
-      "Analysera data",
-      "Hantera licenser",
-      "Spara dokument"
+      "Office 365",
+      "Windows 11",
+      "SQL Server",
+      "Exchange Server"
     ],
     "correct": "A"
   },
   {
-    "text": "Vilken Microsoft 365-tjänst används främst för scenario 6?",
+    "text": "Vad betyder SaaS?",
     "options": [
-      "Exchange Online",
-      "SharePoint Online",
-      "Teams",
-      "OneDrive for Business"
-    ],
-    "correct": "B"
-  },
-  {
-    "text": "Vilken licens passar bäst för scenario 7?",
-    "options": [
-      "Microsoft 365 Business Basic",
-      "Microsoft 365 Business Standard",
-      "Microsoft 365 Business Premium",
-      "Office 365 E1"
-    ],
-    "correct": "C"
-  },
-  {
-    "text": "Vad är syftet med funktion 8 i Microsoft 365?",
-    "options": [
-      "Öka säkerheten",
-      "Analysera data",
-      "Hantera licenser",
-      "Spara dokument"
+      "Software as a Service",
+      "Security as a Service",
+      "Storage as a Service",
+      "Solution as a Service"
     ],
     "correct": "A"
   },
   {
-    "text": "Vilken Microsoft 365-tjänst används främst för scenario 9?",
+    "text": "Vilken Office 365-plan är mest grundläggande för företag?",
     "options": [
-      "Exchange Online",
-      "SharePoint Online",
-      "Teams",
-      "OneDrive for Business"
-    ],
-    "correct": "B"
-  },
-  {
-    "text": "Vilken licens passar bäst för scenario 10?",
-    "options": [
-      "Microsoft 365 Business Basic",
-      "Microsoft 365 Business Standard",
-      "Microsoft 365 Business Premium",
-      "Office 365 E1"
-    ],
-    "correct": "C"
-  },
-  {
-    "text": "Vad är syftet med funktion 11 i Microsoft 365?",
-    "options": [
-      "Öka säkerheten",
-      "Analysera data",
-      "Hantera licenser",
-      "Spara dokument"
+      "Office 365 E1",
+      "Office 365 E3",
+      "Office 365 E5",
+      "Business Premium"
     ],
     "correct": "A"
   },
   {
-    "text": "Vilken Microsoft 365-tjänst används främst för scenario 12?",
+    "text": "Vad är ett kännetecken för offentlig moln?",
     "options": [
-      "Exchange Online",
-      "SharePoint Online",
-      "Teams",
-      "OneDrive for Business"
-    ],
-    "correct": "B"
-  },
-  {
-    "text": "Vilken licens passar bäst för scenario 13?",
-    "options": [
-      "Microsoft 365 Business Basic",
-      "Microsoft 365 Business Standard",
-      "Microsoft 365 Business Premium",
-      "Office 365 E1"
-    ],
-    "correct": "C"
-  },
-  {
-    "text": "Vad är syftet med funktion 14 i Microsoft 365?",
-    "options": [
-      "Öka säkerheten",
-      "Analysera data",
-      "Hantera licenser",
-      "Spara dokument"
+      "Delad infrastruktur",
+      "Endast för en organisation",
+      "Måste installeras lokalt",
+      "Inget SLA"
     ],
     "correct": "A"
   },
   {
-    "text": "Vilken Microsoft 365-tjänst används främst för scenario 15?",
+    "text": "Vilken molnmodell används av Microsoft 365?",
     "options": [
-      "Exchange Online",
-      "SharePoint Online",
-      "Teams",
-      "OneDrive for Business"
-    ],
-    "correct": "B"
-  },
-  {
-    "text": "Vilken licens passar bäst för scenario 16?",
-    "options": [
-      "Microsoft 365 Business Basic",
-      "Microsoft 365 Business Standard",
-      "Microsoft 365 Business Premium",
-      "Office 365 E1"
-    ],
-    "correct": "C"
-  },
-  {
-    "text": "Vad är syftet med funktion 17 i Microsoft 365?",
-    "options": [
-      "Öka säkerheten",
-      "Analysera data",
-      "Hantera licenser",
-      "Spara dokument"
+      "SaaS",
+      "IaaS",
+      "PaaS",
+      "On-premises"
     ],
     "correct": "A"
   },
   {
-    "text": "Vilken Microsoft 365-tjänst används främst för scenario 18?",
+    "text": "Vilken app används för företagsnyheter och intranät?",
     "options": [
-      "Exchange Online",
       "SharePoint Online",
       "Teams",
-      "OneDrive for Business"
-    ],
-    "correct": "B"
-  },
-  {
-    "text": "Vilken licens passar bäst för scenario 19?",
-    "options": [
-      "Microsoft 365 Business Basic",
-      "Microsoft 365 Business Standard",
-      "Microsoft 365 Business Premium",
-      "Office 365 E1"
-    ],
-    "correct": "C"
-  },
-  {
-    "text": "Vad är syftet med funktion 20 i Microsoft 365?",
-    "options": [
-      "Öka säkerheten",
-      "Analysera data",
-      "Hantera licenser",
-      "Spara dokument"
+      "OneDrive",
+      "Forms"
     ],
     "correct": "A"
   },
   {
-    "text": "Vilken Microsoft 365-tjänst används främst för scenario 21?",
+    "text": "Vad är ett kännetecken för offentlig moln?",
     "options": [
-      "Exchange Online",
-      "SharePoint Online",
-      "Teams",
-      "OneDrive for Business"
-    ],
-    "correct": "B"
-  },
-  {
-    "text": "Vilken licens passar bäst för scenario 22?",
-    "options": [
-      "Microsoft 365 Business Basic",
-      "Microsoft 365 Business Standard",
-      "Microsoft 365 Business Premium",
-      "Office 365 E1"
-    ],
-    "correct": "C"
-  },
-  {
-    "text": "Vad är syftet med funktion 23 i Microsoft 365?",
-    "options": [
-      "Öka säkerheten",
-      "Analysera data",
-      "Hantera licenser",
-      "Spara dokument"
+      "Delad infrastruktur",
+      "Endast för en organisation",
+      "Måste installeras lokalt",
+      "Inget SLA"
     ],
     "correct": "A"
   },
   {
-    "text": "Vilken Microsoft 365-tjänst används främst för scenario 24?",
+    "text": "Vilken licens ger mest avancerade säkerhetsfunktioner och eDiscovery?",
     "options": [
-      "Exchange Online",
-      "SharePoint Online",
-      "Teams",
-      "OneDrive for Business"
-    ],
-    "correct": "B"
-  },
-  {
-    "text": "Vilken licens passar bäst för scenario 25?",
-    "options": [
-      "Microsoft 365 Business Basic",
-      "Microsoft 365 Business Standard",
-      "Microsoft 365 Business Premium",
-      "Office 365 E1"
+      "Office 365 E1",
+      "Office 365 E3",
+      "Office 365 E5",
+      "Business Basic"
     ],
     "correct": "C"
   },
   {
-    "text": "Vad är syftet med funktion 26 i Microsoft 365?",
+    "text": "Vilken app används för företagsnyheter och intranät?",
     "options": [
-      "Öka säkerheten",
-      "Analysera data",
-      "Hantera licenser",
-      "Spara dokument"
+      "SharePoint Online",
+      "Teams",
+      "OneDrive",
+      "Forms"
     ],
     "correct": "A"
   },
   {
-    "text": "Vilken Microsoft 365-tjänst används främst för scenario 27?",
+    "text": "Vilken tjänst är grunden för Microsoft 365s identitetshantering?",
     "options": [
+      "Azure Active Directory",
       "Exchange Online",
-      "SharePoint Online",
       "Teams",
-      "OneDrive for Business"
-    ],
-    "correct": "B"
-  },
-  {
-    "text": "Vilken licens passar bäst för scenario 28?",
-    "options": [
-      "Microsoft 365 Business Basic",
-      "Microsoft 365 Business Standard",
-      "Microsoft 365 Business Premium",
-      "Office 365 E1"
-    ],
-    "correct": "C"
-  },
-  {
-    "text": "Vad är syftet med funktion 29 i Microsoft 365?",
-    "options": [
-      "Öka säkerheten",
-      "Analysera data",
-      "Hantera licenser",
-      "Spara dokument"
+      "SharePoint"
     ],
     "correct": "A"
   },
   {
-    "text": "Vilken Microsoft 365-tjänst används främst för scenario 30?",
+    "text": "Vilken Microsoft 365-licens är billigast och inkluderar e-post och Office Online?",
     "options": [
-      "Exchange Online",
-      "SharePoint Online",
-      "Teams",
-      "OneDrive for Business"
+      "Business Premium",
+      "Business Basic",
+      "Office 365 E3",
+      "Office 365 E5"
     ],
     "correct": "B"
   },
   {
-    "text": "Vilken licens passar bäst för scenario 31?",
+    "text": "Vad används Microsoft Intune till?",
     "options": [
-      "Microsoft 365 Business Basic",
-      "Microsoft 365 Business Standard",
-      "Microsoft 365 Business Premium",
-      "Office 365 E1"
-    ],
-    "correct": "C"
-  },
-  {
-    "text": "Vad är syftet med funktion 32 i Microsoft 365?",
-    "options": [
-      "Öka säkerheten",
-      "Analysera data",
-      "Hantera licenser",
-      "Spara dokument"
+      "Mobil- och enhetshantering",
+      "E-posthantering",
+      "Teams-chattar",
+      "Planner"
     ],
     "correct": "A"
   },
   {
-    "text": "Vilken Microsoft 365-tjänst används främst för scenario 33?",
+    "text": "Vilken Office 365-plan är mest grundläggande för företag?",
     "options": [
-      "Exchange Online",
-      "SharePoint Online",
-      "Teams",
-      "OneDrive for Business"
-    ],
-    "correct": "B"
-  },
-  {
-    "text": "Vilken licens passar bäst för scenario 34?",
-    "options": [
-      "Microsoft 365 Business Basic",
-      "Microsoft 365 Business Standard",
-      "Microsoft 365 Business Premium",
-      "Office 365 E1"
-    ],
-    "correct": "C"
-  },
-  {
-    "text": "Vad är syftet med funktion 35 i Microsoft 365?",
-    "options": [
-      "Öka säkerheten",
-      "Analysera data",
-      "Hantera licenser",
-      "Spara dokument"
+      "Office 365 E1",
+      "Office 365 E3",
+      "Office 365 E5",
+      "Business Premium"
     ],
     "correct": "A"
   },
   {
-    "text": "Vilken Microsoft 365-tjänst används främst för scenario 36?",
+    "text": "Vilken Microsoft-tjänst används för att automatisera arbetsflöden?",
     "options": [
-      "Exchange Online",
-      "SharePoint Online",
-      "Teams",
-      "OneDrive for Business"
-    ],
-    "correct": "B"
-  },
-  {
-    "text": "Vilken licens passar bäst för scenario 37?",
-    "options": [
-      "Microsoft 365 Business Basic",
-      "Microsoft 365 Business Standard",
-      "Microsoft 365 Business Premium",
-      "Office 365 E1"
-    ],
-    "correct": "C"
-  },
-  {
-    "text": "Vad är syftet med funktion 38 i Microsoft 365?",
-    "options": [
-      "Öka säkerheten",
-      "Analysera data",
-      "Hantera licenser",
-      "Spara dokument"
+      "Power Automate",
+      "Planner",
+      "Power BI",
+      "Forms"
     ],
     "correct": "A"
   },
   {
-    "text": "Vilken Microsoft 365-tjänst används främst för scenario 39?",
+    "text": "Vilken Microsoft-tjänst används för att automatisera arbetsflöden?",
     "options": [
-      "Exchange Online",
-      "SharePoint Online",
-      "Teams",
-      "OneDrive for Business"
-    ],
-    "correct": "B"
-  },
-  {
-    "text": "Vilken licens passar bäst för scenario 40?",
-    "options": [
-      "Microsoft 365 Business Basic",
-      "Microsoft 365 Business Standard",
-      "Microsoft 365 Business Premium",
-      "Office 365 E1"
-    ],
-    "correct": "C"
-  },
-  {
-    "text": "Vad är syftet med funktion 41 i Microsoft 365?",
-    "options": [
-      "Öka säkerheten",
-      "Analysera data",
-      "Hantera licenser",
-      "Spara dokument"
+      "Power Automate",
+      "Planner",
+      "Power BI",
+      "Forms"
     ],
     "correct": "A"
   },
   {
-    "text": "Vilken Microsoft 365-tjänst används främst för scenario 42?",
+    "text": "Vad är skillnaden mellan IaaS och PaaS?",
     "options": [
-      "Exchange Online",
-      "SharePoint Online",
-      "Teams",
-      "OneDrive for Business"
-    ],
-    "correct": "B"
-  },
-  {
-    "text": "Vilken licens passar bäst för scenario 43?",
-    "options": [
-      "Microsoft 365 Business Basic",
-      "Microsoft 365 Business Standard",
-      "Microsoft 365 Business Premium",
-      "Office 365 E1"
-    ],
-    "correct": "C"
-  },
-  {
-    "text": "Vad är syftet med funktion 44 i Microsoft 365?",
-    "options": [
-      "Öka säkerheten",
-      "Analysera data",
-      "Hantera licenser",
-      "Spara dokument"
+      "IaaS hanterar bara infrastruktur, PaaS erbjuder även plattformstjänster",
+      "IaaS är gratis, PaaS är inte",
+      "PaaS handlar om licenser, IaaS om appar",
+      "Det finns ingen skillnad"
     ],
     "correct": "A"
   },
   {
-    "text": "Vilken Microsoft 365-tjänst används främst för scenario 45?",
+    "text": "Vad är skillnaden mellan IaaS och PaaS?",
     "options": [
-      "Exchange Online",
-      "SharePoint Online",
-      "Teams",
-      "OneDrive for Business"
-    ],
-    "correct": "B"
-  },
-  {
-    "text": "Vilken licens passar bäst för scenario 46?",
-    "options": [
-      "Microsoft 365 Business Basic",
-      "Microsoft 365 Business Standard",
-      "Microsoft 365 Business Premium",
-      "Office 365 E1"
-    ],
-    "correct": "C"
-  },
-  {
-    "text": "Vad är syftet med funktion 47 i Microsoft 365?",
-    "options": [
-      "Öka säkerheten",
-      "Analysera data",
-      "Hantera licenser",
-      "Spara dokument"
+      "IaaS hanterar bara infrastruktur, PaaS erbjuder även plattformstjänster",
+      "IaaS är gratis, PaaS är inte",
+      "PaaS handlar om licenser, IaaS om appar",
+      "Det finns ingen skillnad"
     ],
     "correct": "A"
   },
   {
-    "text": "Vilken Microsoft 365-tjänst används främst för scenario 48?",
+    "text": "Vilken Office 365-plan är mest grundläggande för företag?",
     "options": [
-      "Exchange Online",
-      "SharePoint Online",
-      "Teams",
-      "OneDrive for Business"
-    ],
-    "correct": "B"
-  },
-  {
-    "text": "Vilken licens passar bäst för scenario 49?",
-    "options": [
-      "Microsoft 365 Business Basic",
-      "Microsoft 365 Business Standard",
-      "Microsoft 365 Business Premium",
-      "Office 365 E1"
-    ],
-    "correct": "C"
-  },
-  {
-    "text": "Vad är syftet med funktion 50 i Microsoft 365?",
-    "options": [
-      "Öka säkerheten",
-      "Analysera data",
-      "Hantera licenser",
-      "Spara dokument"
+      "Office 365 E1",
+      "Office 365 E3",
+      "Office 365 E5",
+      "Business Premium"
     ],
     "correct": "A"
   },
   {
-    "text": "Vilken Microsoft 365-tjänst används främst för scenario 51?",
+    "text": "Vad betyder SaaS?",
     "options": [
-      "Exchange Online",
-      "SharePoint Online",
-      "Teams",
-      "OneDrive for Business"
-    ],
-    "correct": "B"
-  },
-  {
-    "text": "Vilken licens passar bäst för scenario 52?",
-    "options": [
-      "Microsoft 365 Business Basic",
-      "Microsoft 365 Business Standard",
-      "Microsoft 365 Business Premium",
-      "Office 365 E1"
-    ],
-    "correct": "C"
-  },
-  {
-    "text": "Vad är syftet med funktion 53 i Microsoft 365?",
-    "options": [
-      "Öka säkerheten",
-      "Analysera data",
-      "Hantera licenser",
-      "Spara dokument"
+      "Software as a Service",
+      "Security as a Service",
+      "Storage as a Service",
+      "Solution as a Service"
     ],
     "correct": "A"
   },
   {
-    "text": "Vilken Microsoft 365-tjänst används främst för scenario 54?",
+    "text": "Vilken licens är bäst för små företag som behöver Intune och avancerad säkerhet?",
     "options": [
-      "Exchange Online",
-      "SharePoint Online",
-      "Teams",
-      "OneDrive for Business"
-    ],
-    "correct": "B"
-  },
-  {
-    "text": "Vilken licens passar bäst för scenario 55?",
-    "options": [
-      "Microsoft 365 Business Basic",
-      "Microsoft 365 Business Standard",
-      "Microsoft 365 Business Premium",
-      "Office 365 E1"
-    ],
-    "correct": "C"
-  },
-  {
-    "text": "Vad är syftet med funktion 56 i Microsoft 365?",
-    "options": [
-      "Öka säkerheten",
-      "Analysera data",
-      "Hantera licenser",
-      "Spara dokument"
+      "Business Premium",
+      "Business Basic",
+      "Office 365 E1",
+      "Microsoft 365 Apps"
     ],
     "correct": "A"
   },
   {
-    "text": "Vilken Microsoft 365-tjänst används främst för scenario 57?",
+    "text": "Vilken Microsoft 365-tjänst används främst för e-post?",
     "options": [
-      "Exchange Online",
       "SharePoint Online",
+      "Exchange Online",
       "Teams",
-      "OneDrive for Business"
+      "Yammer"
     ],
     "correct": "B"
   },
   {
-    "text": "Vilken licens passar bäst för scenario 58?",
+    "text": "Vilken Microsoft-tjänst används för att automatisera arbetsflöden?",
     "options": [
-      "Microsoft 365 Business Basic",
-      "Microsoft 365 Business Standard",
-      "Microsoft 365 Business Premium",
-      "Office 365 E1"
-    ],
-    "correct": "C"
-  },
-  {
-    "text": "Vad är syftet med funktion 59 i Microsoft 365?",
-    "options": [
-      "Öka säkerheten",
-      "Analysera data",
-      "Hantera licenser",
-      "Spara dokument"
+      "Power Automate",
+      "Planner",
+      "Power BI",
+      "Forms"
     ],
     "correct": "A"
   },
   {
-    "text": "Vilken Microsoft 365-tjänst används främst för scenario 60?",
+    "text": "Vilken tjänst används för företagsvideo?",
     "options": [
-      "Exchange Online",
-      "SharePoint Online",
-      "Teams",
-      "OneDrive for Business"
-    ],
-    "correct": "B"
-  },
-  {
-    "text": "Vilken licens passar bäst för scenario 61?",
-    "options": [
-      "Microsoft 365 Business Basic",
-      "Microsoft 365 Business Standard",
-      "Microsoft 365 Business Premium",
-      "Office 365 E1"
-    ],
-    "correct": "C"
-  },
-  {
-    "text": "Vad är syftet med funktion 62 i Microsoft 365?",
-    "options": [
-      "Öka säkerheten",
-      "Analysera data",
-      "Hantera licenser",
-      "Spara dokument"
+      "Stream",
+      "Planner",
+      "Bookings",
+      "Power BI"
     ],
     "correct": "A"
   },
   {
-    "text": "Vilken Microsoft 365-tjänst används främst för scenario 63?",
+    "text": "Vad gör Azure AD Premium P1?",
     "options": [
-      "Exchange Online",
-      "SharePoint Online",
-      "Teams",
-      "OneDrive for Business"
-    ],
-    "correct": "B"
-  },
-  {
-    "text": "Vilken licens passar bäst för scenario 64?",
-    "options": [
-      "Microsoft 365 Business Basic",
-      "Microsoft 365 Business Standard",
-      "Microsoft 365 Business Premium",
-      "Office 365 E1"
-    ],
-    "correct": "C"
-  },
-  {
-    "text": "Vad är syftet med funktion 65 i Microsoft 365?",
-    "options": [
-      "Öka säkerheten",
-      "Analysera data",
-      "Hantera licenser",
-      "Spara dokument"
+      "Ger avancerad identitetshantering",
+      "Installerar Word och Excel",
+      "Skapar SharePoint-webbplatser",
+      "Lagrar filer i OneDrive"
     ],
     "correct": "A"
   },
   {
-    "text": "Vilken Microsoft 365-tjänst används främst för scenario 66?",
+    "text": "Vilken licens är bäst för små företag som behöver Intune och avancerad säkerhet?",
     "options": [
-      "Exchange Online",
-      "SharePoint Online",
-      "Teams",
-      "OneDrive for Business"
-    ],
-    "correct": "B"
-  },
-  {
-    "text": "Vilken licens passar bäst för scenario 67?",
-    "options": [
-      "Microsoft 365 Business Basic",
-      "Microsoft 365 Business Standard",
-      "Microsoft 365 Business Premium",
-      "Office 365 E1"
-    ],
-    "correct": "C"
-  },
-  {
-    "text": "Vad är syftet med funktion 68 i Microsoft 365?",
-    "options": [
-      "Öka säkerheten",
-      "Analysera data",
-      "Hantera licenser",
-      "Spara dokument"
+      "Business Premium",
+      "Business Basic",
+      "Office 365 E1",
+      "Microsoft 365 Apps"
     ],
     "correct": "A"
   },
   {
-    "text": "Vilken Microsoft 365-tjänst används främst för scenario 69?",
+    "text": "Vilken Microsoft-tjänst används för att automatisera arbetsflöden?",
     "options": [
-      "Exchange Online",
-      "SharePoint Online",
-      "Teams",
-      "OneDrive for Business"
-    ],
-    "correct": "B"
-  },
-  {
-    "text": "Vilken licens passar bäst för scenario 70?",
-    "options": [
-      "Microsoft 365 Business Basic",
-      "Microsoft 365 Business Standard",
-      "Microsoft 365 Business Premium",
-      "Office 365 E1"
-    ],
-    "correct": "C"
-  },
-  {
-    "text": "Vad är syftet med funktion 71 i Microsoft 365?",
-    "options": [
-      "Öka säkerheten",
-      "Analysera data",
-      "Hantera licenser",
-      "Spara dokument"
+      "Power Automate",
+      "Planner",
+      "Power BI",
+      "Forms"
     ],
     "correct": "A"
   },
   {
-    "text": "Vilken Microsoft 365-tjänst används främst för scenario 72?",
+    "text": "Vilket verktyg i Microsoft 365 används för att analysera data visuellt?",
     "options": [
-      "Exchange Online",
-      "SharePoint Online",
-      "Teams",
-      "OneDrive for Business"
+      "Power Automate",
+      "Power BI",
+      "Planner",
+      "Stream"
     ],
     "correct": "B"
   },
   {
-    "text": "Vilken licens passar bäst för scenario 73?",
+    "text": "Vilket verktyg i Microsoft 365 används för att analysera data visuellt?",
     "options": [
-      "Microsoft 365 Business Basic",
-      "Microsoft 365 Business Standard",
-      "Microsoft 365 Business Premium",
-      "Office 365 E1"
+      "Power Automate",
+      "Power BI",
+      "Planner",
+      "Stream"
     ],
-    "correct": "C"
+    "correct": "B"
   },
   {
-    "text": "Vad är syftet med funktion 74 i Microsoft 365?",
+    "text": "Vad är skillnaden mellan IaaS och PaaS?",
     "options": [
-      "Öka säkerheten",
-      "Analysera data",
-      "Hantera licenser",
-      "Spara dokument"
+      "IaaS hanterar bara infrastruktur, PaaS erbjuder även plattformstjänster",
+      "IaaS är gratis, PaaS är inte",
+      "PaaS handlar om licenser, IaaS om appar",
+      "Det finns ingen skillnad"
     ],
     "correct": "A"
   },
   {
-    "text": "Vilken Microsoft 365-tjänst används främst för scenario 75?",
+    "text": "Vilken licens innehåller Microsoft Teams, men inte skrivbordsappar?",
     "options": [
-      "Exchange Online",
-      "SharePoint Online",
-      "Teams",
-      "OneDrive for Business"
-    ],
-    "correct": "B"
-  },
-  {
-    "text": "Vilken licens passar bäst för scenario 76?",
-    "options": [
-      "Microsoft 365 Business Basic",
-      "Microsoft 365 Business Standard",
-      "Microsoft 365 Business Premium",
-      "Office 365 E1"
-    ],
-    "correct": "C"
-  },
-  {
-    "text": "Vad är syftet med funktion 77 i Microsoft 365?",
-    "options": [
-      "Öka säkerheten",
-      "Analysera data",
-      "Hantera licenser",
-      "Spara dokument"
+      "Office 365 E1",
+      "Office 365 E3",
+      "Office 365 E5",
+      "Business Standard"
     ],
     "correct": "A"
   },
   {
-    "text": "Vilken Microsoft 365-tjänst används främst för scenario 78?",
+    "text": "Vilken licens innehåller endast skrivbordsappar som Word och Excel utan molntjänster?",
     "options": [
-      "Exchange Online",
-      "SharePoint Online",
-      "Teams",
-      "OneDrive for Business"
-    ],
-    "correct": "B"
-  },
-  {
-    "text": "Vilken licens passar bäst för scenario 79?",
-    "options": [
-      "Microsoft 365 Business Basic",
-      "Microsoft 365 Business Standard",
-      "Microsoft 365 Business Premium",
+      "Microsoft 365 Apps",
+      "Business Standard",
+      "Business Premium",
       "Office 365 E1"
-    ],
-    "correct": "C"
-  },
-  {
-    "text": "Vad är syftet med funktion 80 i Microsoft 365?",
-    "options": [
-      "Öka säkerheten",
-      "Analysera data",
-      "Hantera licenser",
-      "Spara dokument"
     ],
     "correct": "A"
   },
   {
-    "text": "Vilken Microsoft 365-tjänst används främst för scenario 81?",
+    "text": "Vilken licens är lämplig för företag som behöver både Office-appar och molntjänster men inte Intune?",
     "options": [
-      "Exchange Online",
-      "SharePoint Online",
-      "Teams",
-      "OneDrive for Business"
-    ],
-    "correct": "B"
-  },
-  {
-    "text": "Vilken licens passar bäst för scenario 82?",
-    "options": [
-      "Microsoft 365 Business Basic",
-      "Microsoft 365 Business Standard",
-      "Microsoft 365 Business Premium",
+      "Business Standard",
+      "Business Premium",
+      "Business Basic",
       "Office 365 E1"
-    ],
-    "correct": "C"
-  },
-  {
-    "text": "Vad är syftet med funktion 83 i Microsoft 365?",
-    "options": [
-      "Öka säkerheten",
-      "Analysera data",
-      "Hantera licenser",
-      "Spara dokument"
     ],
     "correct": "A"
   },
   {
-    "text": "Vilken Microsoft 365-tjänst används främst för scenario 84?",
+    "text": "Vad är ett exempel på IaaS?",
     "options": [
-      "Exchange Online",
-      "SharePoint Online",
-      "Teams",
-      "OneDrive for Business"
-    ],
-    "correct": "B"
-  },
-  {
-    "text": "Vilken licens passar bäst för scenario 85?",
-    "options": [
-      "Microsoft 365 Business Basic",
-      "Microsoft 365 Business Standard",
-      "Microsoft 365 Business Premium",
-      "Office 365 E1"
-    ],
-    "correct": "C"
-  },
-  {
-    "text": "Vad är syftet med funktion 86 i Microsoft 365?",
-    "options": [
-      "Öka säkerheten",
-      "Analysera data",
-      "Hantera licenser",
-      "Spara dokument"
+      "Azure Virtual Machines",
+      "Office 365",
+      "Microsoft Teams",
+      "Power BI"
     ],
     "correct": "A"
   },
   {
-    "text": "Vilken Microsoft 365-tjänst används främst för scenario 87?",
+    "text": "Vad är Conditional Access i Microsoft 365?",
     "options": [
-      "Exchange Online",
-      "SharePoint Online",
-      "Teams",
-      "OneDrive for Business"
-    ],
-    "correct": "B"
-  },
-  {
-    "text": "Vilken licens passar bäst för scenario 88?",
-    "options": [
-      "Microsoft 365 Business Basic",
-      "Microsoft 365 Business Standard",
-      "Microsoft 365 Business Premium",
-      "Office 365 E1"
-    ],
-    "correct": "C"
-  },
-  {
-    "text": "Vad är syftet med funktion 89 i Microsoft 365?",
-    "options": [
-      "Öka säkerheten",
-      "Analysera data",
-      "Hantera licenser",
-      "Spara dokument"
+      "Säkerhetsfunktion som kontrollerar åtkomst baserat på villkor",
+      "Ett verktyg för att skapa Teams-möten",
+      "Ett licensverktyg",
+      "En Office-app"
     ],
     "correct": "A"
   },
   {
-    "text": "Vilken Microsoft 365-tjänst används främst för scenario 90?",
+    "text": "Vad gör Azure AD Premium P1?",
     "options": [
-      "Exchange Online",
-      "SharePoint Online",
-      "Teams",
-      "OneDrive for Business"
-    ],
-    "correct": "B"
-  },
-  {
-    "text": "Vilken licens passar bäst för scenario 91?",
-    "options": [
-      "Microsoft 365 Business Basic",
-      "Microsoft 365 Business Standard",
-      "Microsoft 365 Business Premium",
-      "Office 365 E1"
-    ],
-    "correct": "C"
-  },
-  {
-    "text": "Vad är syftet med funktion 92 i Microsoft 365?",
-    "options": [
-      "Öka säkerheten",
-      "Analysera data",
-      "Hantera licenser",
-      "Spara dokument"
+      "Ger avancerad identitetshantering",
+      "Installerar Word och Excel",
+      "Skapar SharePoint-webbplatser",
+      "Lagrar filer i OneDrive"
     ],
     "correct": "A"
   },
   {
-    "text": "Vilken Microsoft 365-tjänst används främst för scenario 93?",
+    "text": "Vad är syftet med Microsoft Secure Score?",
     "options": [
-      "Exchange Online",
-      "SharePoint Online",
-      "Teams",
-      "OneDrive for Business"
+      "Att analysera OneDrive-lagring",
+      "Att mäta och förbättra säkerhetsnivån",
+      "Att beräkna licenskostnader",
+      "Att skapa SharePoint-webbplatser"
     ],
     "correct": "B"
   },
   {
-    "text": "Vilken licens passar bäst för scenario 94?",
+    "text": "Vad gör Azure AD Premium P1?",
     "options": [
-      "Microsoft 365 Business Basic",
-      "Microsoft 365 Business Standard",
-      "Microsoft 365 Business Premium",
-      "Office 365 E1"
-    ],
-    "correct": "C"
-  },
-  {
-    "text": "Vad är syftet med funktion 95 i Microsoft 365?",
-    "options": [
-      "Öka säkerheten",
-      "Analysera data",
-      "Hantera licenser",
-      "Spara dokument"
+      "Ger avancerad identitetshantering",
+      "Installerar Word och Excel",
+      "Skapar SharePoint-webbplatser",
+      "Lagrar filer i OneDrive"
     ],
     "correct": "A"
   },
   {
-    "text": "Vilken Microsoft 365-tjänst används främst för scenario 96?",
+    "text": "Vilken app används för att skapa enkäter i Microsoft 365?",
     "options": [
-      "Exchange Online",
-      "SharePoint Online",
-      "Teams",
-      "OneDrive for Business"
-    ],
-    "correct": "B"
-  },
-  {
-    "text": "Vilken licens passar bäst för scenario 97?",
-    "options": [
-      "Microsoft 365 Business Basic",
-      "Microsoft 365 Business Standard",
-      "Microsoft 365 Business Premium",
-      "Office 365 E1"
-    ],
-    "correct": "C"
-  },
-  {
-    "text": "Vad är syftet med funktion 98 i Microsoft 365?",
-    "options": [
-      "Öka säkerheten",
-      "Analysera data",
-      "Hantera licenser",
-      "Spara dokument"
+      "Forms",
+      "Yammer",
+      "Bookings",
+      "Planner"
     ],
     "correct": "A"
   },
   {
-    "text": "Vilken Microsoft 365-tjänst används främst för scenario 99?",
+    "text": "Vilken Microsoft-tjänst används för att automatisera arbetsflöden?",
     "options": [
-      "Exchange Online",
-      "SharePoint Online",
+      "Power Automate",
+      "Planner",
+      "Power BI",
+      "Forms"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken plan är en SaaS-lösning från Microsoft?",
+    "options": [
+      "Office 365",
+      "Windows 11",
+      "SQL Server",
+      "Exchange Server"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vad är ett kännetecken för offentlig moln?",
+    "options": [
+      "Delad infrastruktur",
+      "Endast för en organisation",
+      "Måste installeras lokalt",
+      "Inget SLA"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken licens är bäst för små företag som behöver Intune och avancerad säkerhet?",
+    "options": [
+      "Business Premium",
+      "Business Basic",
+      "Office 365 E1",
+      "Microsoft 365 Apps"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken Microsoft-tjänst används för att automatisera arbetsflöden?",
+    "options": [
+      "Power Automate",
+      "Planner",
+      "Power BI",
+      "Forms"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken licens ger mest avancerade säkerhetsfunktioner och eDiscovery?",
+    "options": [
+      "Office 365 E1",
+      "Office 365 E3",
+      "Office 365 E5",
+      "Business Basic"
+    ],
+    "correct": "C"
+  },
+  {
+    "text": "Vad är CAPEX jämfört med OPEX i molnkontext?",
+    "options": [
+      "CAPEX är investeringar, OPEX är löpande kostnader",
+      "CAPEX är löpande kostnader, OPEX är investeringar",
+      "Båda är samma sak",
+      "CAPEX handlar om e-post"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vad är syftet med Microsoft Defender for Office 365?",
+    "options": [
+      "Skydda e-post mot phishing och malware",
+      "Hantera licenser",
+      "Analysera Power BI-data",
+      "Hantera Teams-möten"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vad är en fördel med molntjänster?",
+    "options": [
+      "Lägre initiala kostnader och skalbarhet",
+      "Behöver alltid lokala servrar",
+      "Alltid högre kostnader",
+      "Ingen säkerhet"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken app används för att skapa enkäter i Microsoft 365?",
+    "options": [
+      "Forms",
+      "Yammer",
+      "Bookings",
+      "Planner"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vad betyder SaaS?",
+    "options": [
+      "Software as a Service",
+      "Security as a Service",
+      "Storage as a Service",
+      "Solution as a Service"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken Microsoft 365-app används för chatt och möten?",
+    "options": [
+      "Yammer",
       "Teams",
-      "OneDrive for Business"
+      "Outlook",
+      "Bookings"
     ],
     "correct": "B"
   },
   {
-    "text": "Vilken licens passar bäst för scenario 100?",
+    "text": "Vilken licens ger mest avancerade säkerhetsfunktioner och eDiscovery?",
     "options": [
-      "Microsoft 365 Business Basic",
-      "Microsoft 365 Business Standard",
-      "Microsoft 365 Business Premium",
-      "Office 365 E1"
+      "Office 365 E1",
+      "Office 365 E3",
+      "Office 365 E5",
+      "Business Basic"
     ],
     "correct": "C"
+  },
+  {
+    "text": "Vad är ett exempel på SaaS?",
+    "options": [
+      "Office 365",
+      "Azure VMs",
+      "SQL Server i egen serverhall",
+      "Windows 11 ISO"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken Microsoft 365-licens är billigast och inkluderar e-post och Office Online?",
+    "options": [
+      "Business Premium",
+      "Business Basic",
+      "Office 365 E3",
+      "Office 365 E5"
+    ],
+    "correct": "B"
+  },
+  {
+    "text": "Vad gör Azure AD Premium P1?",
+    "options": [
+      "Ger avancerad identitetshantering",
+      "Installerar Word och Excel",
+      "Skapar SharePoint-webbplatser",
+      "Lagrar filer i OneDrive"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken tjänst används för schemaläggning av kundbokningar?",
+    "options": [
+      "Bookings",
+      "Planner",
+      "Teams",
+      "Power Automate"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken tjänst används för företagsvideo?",
+    "options": [
+      "Stream",
+      "Planner",
+      "Bookings",
+      "Power BI"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken licens innehåller endast skrivbordsappar som Word och Excel utan molntjänster?",
+    "options": [
+      "Microsoft 365 Apps",
+      "Business Standard",
+      "Business Premium",
+      "Office 365 E1"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken plan är en SaaS-lösning från Microsoft?",
+    "options": [
+      "Office 365",
+      "Windows 11",
+      "SQL Server",
+      "Exchange Server"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken funktion används för att blockera känslig data från att lämna organisationen?",
+    "options": [
+      "DLP (Data Loss Prevention)",
+      "Bookings",
+      "Planner",
+      "Forms"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken licens är bäst för små företag som behöver Intune och avancerad säkerhet?",
+    "options": [
+      "Business Premium",
+      "Business Basic",
+      "Office 365 E1",
+      "Microsoft 365 Apps"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilket är exempel på en Zero Trust-princip?",
+    "options": [
+      "Lita på allt internt nätverk",
+      "Verifiera alltid, anta aldrig",
+      "Tillåt alla enheter",
+      "Tillåt alltid gamla lösenord"
+    ],
+    "correct": "B"
+  },
+  {
+    "text": "Vad betyder SaaS?",
+    "options": [
+      "Software as a Service",
+      "Security as a Service",
+      "Storage as a Service",
+      "Solution as a Service"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vad används Microsoft Intune till?",
+    "options": [
+      "Mobil- och enhetshantering",
+      "E-posthantering",
+      "Teams-chattar",
+      "Planner"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken licens innehåller endast skrivbordsappar som Word och Excel utan molntjänster?",
+    "options": [
+      "Microsoft 365 Apps",
+      "Business Standard",
+      "Business Premium",
+      "Office 365 E1"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken funktion används för att blockera känslig data från att lämna organisationen?",
+    "options": [
+      "DLP (Data Loss Prevention)",
+      "Bookings",
+      "Planner",
+      "Forms"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken molnmodell används av Microsoft 365?",
+    "options": [
+      "SaaS",
+      "IaaS",
+      "PaaS",
+      "On-premises"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken funktion används för att blockera känslig data från att lämna organisationen?",
+    "options": [
+      "DLP (Data Loss Prevention)",
+      "Bookings",
+      "Planner",
+      "Forms"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken molnmodell används av Microsoft 365?",
+    "options": [
+      "SaaS",
+      "IaaS",
+      "PaaS",
+      "On-premises"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken plan är en SaaS-lösning från Microsoft?",
+    "options": [
+      "Office 365",
+      "Windows 11",
+      "SQL Server",
+      "Exchange Server"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilket verktyg i Microsoft 365 används för att analysera data visuellt?",
+    "options": [
+      "Power Automate",
+      "Power BI",
+      "Planner",
+      "Stream"
+    ],
+    "correct": "B"
+  },
+  {
+    "text": "Vad gör Multi-Factor Authentication (MFA)?",
+    "options": [
+      "Förhindrar att lösenord ändras",
+      "Lägger till extra säkerhetslager vid inloggning",
+      "Skapar backup av filer",
+      "Synkar Teams-möten"
+    ],
+    "correct": "B"
+  },
+  {
+    "text": "Vad är ett kännetecken för offentlig moln?",
+    "options": [
+      "Delad infrastruktur",
+      "Endast för en organisation",
+      "Måste installeras lokalt",
+      "Inget SLA"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken tjänst används för företagsvideo?",
+    "options": [
+      "Stream",
+      "Planner",
+      "Bookings",
+      "Power BI"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vad används Microsoft Intune till?",
+    "options": [
+      "Mobil- och enhetshantering",
+      "E-posthantering",
+      "Teams-chattar",
+      "Planner"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken plan är en SaaS-lösning från Microsoft?",
+    "options": [
+      "Office 365",
+      "Windows 11",
+      "SQL Server",
+      "Exchange Server"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken licens erbjuder avancerade analysfunktioner och Power BI Pro?",
+    "options": [
+      "Office 365 E5",
+      "Office 365 E1",
+      "Business Premium",
+      "Business Basic"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken funktion används för att blockera känslig data från att lämna organisationen?",
+    "options": [
+      "DLP (Data Loss Prevention)",
+      "Bookings",
+      "Planner",
+      "Forms"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilket verktyg i Microsoft 365 används för att analysera data visuellt?",
+    "options": [
+      "Power Automate",
+      "Power BI",
+      "Planner",
+      "Stream"
+    ],
+    "correct": "B"
+  },
+  {
+    "text": "Vilken licens är bäst för små företag som behöver Intune och avancerad säkerhet?",
+    "options": [
+      "Business Premium",
+      "Business Basic",
+      "Office 365 E1",
+      "Microsoft 365 Apps"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilket verktyg erbjuder kryptering och DLP-policyer?",
+    "options": [
+      "Microsoft Purview",
+      "Yammer",
+      "Planner",
+      "Forms"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken licens ger mest avancerade säkerhetsfunktioner och eDiscovery?",
+    "options": [
+      "Office 365 E1",
+      "Office 365 E3",
+      "Office 365 E5",
+      "Business Basic"
+    ],
+    "correct": "C"
+  },
+  {
+    "text": "Vilken licens ger mest avancerade säkerhetsfunktioner och eDiscovery?",
+    "options": [
+      "Office 365 E1",
+      "Office 365 E3",
+      "Office 365 E5",
+      "Business Basic"
+    ],
+    "correct": "C"
+  },
+  {
+    "text": "Vilket verktyg erbjuder kryptering och DLP-policyer?",
+    "options": [
+      "Microsoft Purview",
+      "Yammer",
+      "Planner",
+      "Forms"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken Microsoft 365-licens är billigast och inkluderar e-post och Office Online?",
+    "options": [
+      "Business Premium",
+      "Business Basic",
+      "Office 365 E3",
+      "Office 365 E5"
+    ],
+    "correct": "B"
+  },
+  {
+    "text": "Vilken Microsoft 365-funktion används för att uppfylla GDPR-krav?",
+    "options": [
+      "Compliance Manager",
+      "Planner",
+      "Bookings",
+      "Forms"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken plan är en SaaS-lösning från Microsoft?",
+    "options": [
+      "Office 365",
+      "Windows 11",
+      "SQL Server",
+      "Exchange Server"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vad används Microsoft Intune till?",
+    "options": [
+      "Mobil- och enhetshantering",
+      "E-posthantering",
+      "Teams-chattar",
+      "Planner"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken tjänst är grunden för Microsoft 365s identitetshantering?",
+    "options": [
+      "Azure Active Directory",
+      "Exchange Online",
+      "Teams",
+      "SharePoint"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vad är ett kännetecken för offentlig moln?",
+    "options": [
+      "Delad infrastruktur",
+      "Endast för en organisation",
+      "Måste installeras lokalt",
+      "Inget SLA"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vad är ett exempel på SaaS?",
+    "options": [
+      "Office 365",
+      "Azure VMs",
+      "SQL Server i egen serverhall",
+      "Windows 11 ISO"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken app används för företagsnyheter och intranät?",
+    "options": [
+      "SharePoint Online",
+      "Teams",
+      "OneDrive",
+      "Forms"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken licens är bäst för små företag som behöver Intune och avancerad säkerhet?",
+    "options": [
+      "Business Premium",
+      "Business Basic",
+      "Office 365 E1",
+      "Microsoft 365 Apps"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken är en hybridmolnlösning?",
+    "options": [
+      "Azure Stack",
+      "Office 365",
+      "Teams",
+      "Power Automate"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken Office 365-plan är mest grundläggande för företag?",
+    "options": [
+      "Office 365 E1",
+      "Office 365 E3",
+      "Office 365 E5",
+      "Business Premium"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken Microsoft 365-app används för lagring av personliga filer?",
+    "options": [
+      "SharePoint Online",
+      "OneDrive for Business",
+      "Teams",
+      "Planner"
+    ],
+    "correct": "B"
+  },
+  {
+    "text": "Vilket verktyg erbjuder kryptering och DLP-policyer?",
+    "options": [
+      "Microsoft Purview",
+      "Yammer",
+      "Planner",
+      "Forms"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vad är ett kännetecken för offentlig moln?",
+    "options": [
+      "Delad infrastruktur",
+      "Endast för en organisation",
+      "Måste installeras lokalt",
+      "Inget SLA"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken tjänst är exempel på PaaS?",
+    "options": [
+      "Azure App Service",
+      "Office 365",
+      "Teams",
+      "Planner"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vad gör Azure AD Premium P1?",
+    "options": [
+      "Ger avancerad identitetshantering",
+      "Installerar Word och Excel",
+      "Skapar SharePoint-webbplatser",
+      "Lagrar filer i OneDrive"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken plan är en SaaS-lösning från Microsoft?",
+    "options": [
+      "Office 365",
+      "Windows 11",
+      "SQL Server",
+      "Exchange Server"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken Microsoft-tjänst används för att automatisera arbetsflöden?",
+    "options": [
+      "Power Automate",
+      "Planner",
+      "Power BI",
+      "Forms"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vad används Microsoft Intune till?",
+    "options": [
+      "Mobil- och enhetshantering",
+      "E-posthantering",
+      "Teams-chattar",
+      "Planner"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vad är ett exempel på SaaS?",
+    "options": [
+      "Office 365",
+      "Azure VMs",
+      "SQL Server i egen serverhall",
+      "Windows 11 ISO"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken Microsoft 365-app används för chatt och möten?",
+    "options": [
+      "Yammer",
+      "Teams",
+      "Outlook",
+      "Bookings"
+    ],
+    "correct": "B"
+  },
+  {
+    "text": "Vilken Microsoft 365-funktion används för att uppfylla GDPR-krav?",
+    "options": [
+      "Compliance Manager",
+      "Planner",
+      "Bookings",
+      "Forms"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vad betyder SaaS?",
+    "options": [
+      "Software as a Service",
+      "Security as a Service",
+      "Storage as a Service",
+      "Solution as a Service"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken Microsoft-tjänst används för att automatisera arbetsflöden?",
+    "options": [
+      "Power Automate",
+      "Planner",
+      "Power BI",
+      "Forms"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken tjänst är exempel på PaaS?",
+    "options": [
+      "Azure App Service",
+      "Office 365",
+      "Teams",
+      "Planner"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vad är ett kännetecken för offentlig moln?",
+    "options": [
+      "Delad infrastruktur",
+      "Endast för en organisation",
+      "Måste installeras lokalt",
+      "Inget SLA"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilket verktyg i Microsoft 365 används för att analysera data visuellt?",
+    "options": [
+      "Power Automate",
+      "Power BI",
+      "Planner",
+      "Stream"
+    ],
+    "correct": "B"
+  },
+  {
+    "text": "Vad är CAPEX jämfört med OPEX i molnkontext?",
+    "options": [
+      "CAPEX är investeringar, OPEX är löpande kostnader",
+      "CAPEX är löpande kostnader, OPEX är investeringar",
+      "Båda är samma sak",
+      "CAPEX handlar om e-post"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vad betyder SaaS?",
+    "options": [
+      "Software as a Service",
+      "Security as a Service",
+      "Storage as a Service",
+      "Solution as a Service"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken tjänst är exempel på PaaS?",
+    "options": [
+      "Azure App Service",
+      "Office 365",
+      "Teams",
+      "Planner"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vad används Microsoft Intune till?",
+    "options": [
+      "Mobil- och enhetshantering",
+      "E-posthantering",
+      "Teams-chattar",
+      "Planner"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken app används för företagsnyheter och intranät?",
+    "options": [
+      "SharePoint Online",
+      "Teams",
+      "OneDrive",
+      "Forms"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vad är ett exempel på SaaS?",
+    "options": [
+      "Office 365",
+      "Azure VMs",
+      "SQL Server i egen serverhall",
+      "Windows 11 ISO"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken licens är mest lämpad för utbildningsinstitutioner?",
+    "options": [
+      "Office 365 A1",
+      "Business Basic",
+      "Business Premium",
+      "Office 365 E5"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vad gör Azure AD Premium P1?",
+    "options": [
+      "Ger avancerad identitetshantering",
+      "Installerar Word och Excel",
+      "Skapar SharePoint-webbplatser",
+      "Lagrar filer i OneDrive"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken licens ger mest avancerade säkerhetsfunktioner och eDiscovery?",
+    "options": [
+      "Office 365 E1",
+      "Office 365 E3",
+      "Office 365 E5",
+      "Business Basic"
+    ],
+    "correct": "C"
+  },
+  {
+    "text": "Vad är ett exempel på IaaS?",
+    "options": [
+      "Azure Virtual Machines",
+      "Office 365",
+      "Microsoft Teams",
+      "Power BI"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken Microsoft 365-funktion används för att uppfylla GDPR-krav?",
+    "options": [
+      "Compliance Manager",
+      "Planner",
+      "Bookings",
+      "Forms"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken licens ger mest avancerade säkerhetsfunktioner och eDiscovery?",
+    "options": [
+      "Office 365 E1",
+      "Office 365 E3",
+      "Office 365 E5",
+      "Business Basic"
+    ],
+    "correct": "C"
+  },
+  {
+    "text": "Vilken funktion används för att blockera känslig data från att lämna organisationen?",
+    "options": [
+      "DLP (Data Loss Prevention)",
+      "Bookings",
+      "Planner",
+      "Forms"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken tjänst är exempel på PaaS?",
+    "options": [
+      "Azure App Service",
+      "Office 365",
+      "Teams",
+      "Planner"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken app används för företagsnyheter och intranät?",
+    "options": [
+      "SharePoint Online",
+      "Teams",
+      "OneDrive",
+      "Forms"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vad gör Azure AD Premium P1?",
+    "options": [
+      "Ger avancerad identitetshantering",
+      "Installerar Word och Excel",
+      "Skapar SharePoint-webbplatser",
+      "Lagrar filer i OneDrive"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vad används Microsoft Intune till?",
+    "options": [
+      "Mobil- och enhetshantering",
+      "E-posthantering",
+      "Teams-chattar",
+      "Planner"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilket är exempel på en Zero Trust-princip?",
+    "options": [
+      "Lita på allt internt nätverk",
+      "Verifiera alltid, anta aldrig",
+      "Tillåt alla enheter",
+      "Tillåt alltid gamla lösenord"
+    ],
+    "correct": "B"
+  },
+  {
+    "text": "Vad är ett kännetecken för offentlig moln?",
+    "options": [
+      "Delad infrastruktur",
+      "Endast för en organisation",
+      "Måste installeras lokalt",
+      "Inget SLA"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken licens ger mest avancerade säkerhetsfunktioner och eDiscovery?",
+    "options": [
+      "Office 365 E1",
+      "Office 365 E3",
+      "Office 365 E5",
+      "Business Basic"
+    ],
+    "correct": "C"
+  },
+  {
+    "text": "Vilket är exempel på en Zero Trust-princip?",
+    "options": [
+      "Lita på allt internt nätverk",
+      "Verifiera alltid, anta aldrig",
+      "Tillåt alla enheter",
+      "Tillåt alltid gamla lösenord"
+    ],
+    "correct": "B"
+  },
+  {
+    "text": "Vilken licens innehåller endast skrivbordsappar som Word och Excel utan molntjänster?",
+    "options": [
+      "Microsoft 365 Apps",
+      "Business Standard",
+      "Business Premium",
+      "Office 365 E1"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vad är ett kännetecken för offentlig moln?",
+    "options": [
+      "Delad infrastruktur",
+      "Endast för en organisation",
+      "Måste installeras lokalt",
+      "Inget SLA"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vad är ett exempel på IaaS?",
+    "options": [
+      "Azure Virtual Machines",
+      "Office 365",
+      "Microsoft Teams",
+      "Power BI"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken funktion används för att blockera känslig data från att lämna organisationen?",
+    "options": [
+      "DLP (Data Loss Prevention)",
+      "Bookings",
+      "Planner",
+      "Forms"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vad används Microsoft Intune till?",
+    "options": [
+      "Mobil- och enhetshantering",
+      "E-posthantering",
+      "Teams-chattar",
+      "Planner"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken plan är en SaaS-lösning från Microsoft?",
+    "options": [
+      "Office 365",
+      "Windows 11",
+      "SQL Server",
+      "Exchange Server"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vad är ett kännetecken för offentlig moln?",
+    "options": [
+      "Delad infrastruktur",
+      "Endast för en organisation",
+      "Måste installeras lokalt",
+      "Inget SLA"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vad betyder SaaS?",
+    "options": [
+      "Software as a Service",
+      "Security as a Service",
+      "Storage as a Service",
+      "Solution as a Service"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilket verktyg erbjuder kryptering och DLP-policyer?",
+    "options": [
+      "Microsoft Purview",
+      "Yammer",
+      "Planner",
+      "Forms"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken licens innehåller endast skrivbordsappar som Word och Excel utan molntjänster?",
+    "options": [
+      "Microsoft 365 Apps",
+      "Business Standard",
+      "Business Premium",
+      "Office 365 E1"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken Microsoft-tjänst används för att automatisera arbetsflöden?",
+    "options": [
+      "Power Automate",
+      "Planner",
+      "Power BI",
+      "Forms"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken tjänst används för schemaläggning av kundbokningar?",
+    "options": [
+      "Bookings",
+      "Planner",
+      "Teams",
+      "Power Automate"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken licens ger mest avancerade säkerhetsfunktioner och eDiscovery?",
+    "options": [
+      "Office 365 E1",
+      "Office 365 E3",
+      "Office 365 E5",
+      "Business Basic"
+    ],
+    "correct": "C"
+  },
+  {
+    "text": "Vilken plan är en SaaS-lösning från Microsoft?",
+    "options": [
+      "Office 365",
+      "Windows 11",
+      "SQL Server",
+      "Exchange Server"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken licens är bäst för små företag som behöver Intune och avancerad säkerhet?",
+    "options": [
+      "Business Premium",
+      "Business Basic",
+      "Office 365 E1",
+      "Microsoft 365 Apps"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken app används för företagsnyheter och intranät?",
+    "options": [
+      "SharePoint Online",
+      "Teams",
+      "OneDrive",
+      "Forms"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken licens erbjuder avancerade analysfunktioner och Power BI Pro?",
+    "options": [
+      "Office 365 E5",
+      "Office 365 E1",
+      "Business Premium",
+      "Business Basic"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken plan är en SaaS-lösning från Microsoft?",
+    "options": [
+      "Office 365",
+      "Windows 11",
+      "SQL Server",
+      "Exchange Server"
+    ],
+    "correct": "A"
   }
 ]
