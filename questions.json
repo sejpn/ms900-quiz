@@ -1,22 +1,1002 @@
 [
   {
-    "text": "Vilken Microsoft 365-tjänst används främst för e-post?",
-    "options": ["SharePoint Online", "Exchange Online", "Microsoft Teams", "Yammer"],
-    "correct": "B"
-  },
-  {
-    "text": "Vilken licens inkluderar säkerhetsfunktioner som Microsoft Intune och Azure AD Premium P1?",
-    "options": ["Microsoft 365 Business Basic", "Microsoft 365 Business Standard", "Microsoft 365 Business Premium", "Office 365 E1"],
+    "text": "Vilken licens passar bäst för scenario 1?",
+    "options": [
+      "Microsoft 365 Business Basic",
+      "Microsoft 365 Business Standard",
+      "Microsoft 365 Business Premium",
+      "Office 365 E1"
+    ],
     "correct": "C"
   },
   {
-    "text": "Vad är syftet med Microsoft Secure Score?",
-    "options": ["Öka prestandan i Teams", "Mäta och förbättra säkerhetsstatusen", "Hantera licensförnyelser", "Skapa SharePoint-sidor"],
+    "text": "Vad är syftet med funktion 2 i Microsoft 365?",
+    "options": [
+      "Öka säkerheten",
+      "Analysera data",
+      "Hantera licenser",
+      "Spara dokument"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken Microsoft 365-tjänst används främst för scenario 3?",
+    "options": [
+      "Exchange Online",
+      "SharePoint Online",
+      "Teams",
+      "OneDrive for Business"
+    ],
     "correct": "B"
   },
   {
-    "text": "Vilken tjänst i Microsoft 365 används för dokumentdelning och intranät?",
-    "options": ["Yammer", "SharePoint Online", "Microsoft Teams", "Stream"],
+    "text": "Vilken licens passar bäst för scenario 4?",
+    "options": [
+      "Microsoft 365 Business Basic",
+      "Microsoft 365 Business Standard",
+      "Microsoft 365 Business Premium",
+      "Office 365 E1"
+    ],
+    "correct": "C"
+  },
+  {
+    "text": "Vad är syftet med funktion 5 i Microsoft 365?",
+    "options": [
+      "Öka säkerheten",
+      "Analysera data",
+      "Hantera licenser",
+      "Spara dokument"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken Microsoft 365-tjänst används främst för scenario 6?",
+    "options": [
+      "Exchange Online",
+      "SharePoint Online",
+      "Teams",
+      "OneDrive for Business"
+    ],
     "correct": "B"
+  },
+  {
+    "text": "Vilken licens passar bäst för scenario 7?",
+    "options": [
+      "Microsoft 365 Business Basic",
+      "Microsoft 365 Business Standard",
+      "Microsoft 365 Business Premium",
+      "Office 365 E1"
+    ],
+    "correct": "C"
+  },
+  {
+    "text": "Vad är syftet med funktion 8 i Microsoft 365?",
+    "options": [
+      "Öka säkerheten",
+      "Analysera data",
+      "Hantera licenser",
+      "Spara dokument"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken Microsoft 365-tjänst används främst för scenario 9?",
+    "options": [
+      "Exchange Online",
+      "SharePoint Online",
+      "Teams",
+      "OneDrive for Business"
+    ],
+    "correct": "B"
+  },
+  {
+    "text": "Vilken licens passar bäst för scenario 10?",
+    "options": [
+      "Microsoft 365 Business Basic",
+      "Microsoft 365 Business Standard",
+      "Microsoft 365 Business Premium",
+      "Office 365 E1"
+    ],
+    "correct": "C"
+  },
+  {
+    "text": "Vad är syftet med funktion 11 i Microsoft 365?",
+    "options": [
+      "Öka säkerheten",
+      "Analysera data",
+      "Hantera licenser",
+      "Spara dokument"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken Microsoft 365-tjänst används främst för scenario 12?",
+    "options": [
+      "Exchange Online",
+      "SharePoint Online",
+      "Teams",
+      "OneDrive for Business"
+    ],
+    "correct": "B"
+  },
+  {
+    "text": "Vilken licens passar bäst för scenario 13?",
+    "options": [
+      "Microsoft 365 Business Basic",
+      "Microsoft 365 Business Standard",
+      "Microsoft 365 Business Premium",
+      "Office 365 E1"
+    ],
+    "correct": "C"
+  },
+  {
+    "text": "Vad är syftet med funktion 14 i Microsoft 365?",
+    "options": [
+      "Öka säkerheten",
+      "Analysera data",
+      "Hantera licenser",
+      "Spara dokument"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken Microsoft 365-tjänst används främst för scenario 15?",
+    "options": [
+      "Exchange Online",
+      "SharePoint Online",
+      "Teams",
+      "OneDrive for Business"
+    ],
+    "correct": "B"
+  },
+  {
+    "text": "Vilken licens passar bäst för scenario 16?",
+    "options": [
+      "Microsoft 365 Business Basic",
+      "Microsoft 365 Business Standard",
+      "Microsoft 365 Business Premium",
+      "Office 365 E1"
+    ],
+    "correct": "C"
+  },
+  {
+    "text": "Vad är syftet med funktion 17 i Microsoft 365?",
+    "options": [
+      "Öka säkerheten",
+      "Analysera data",
+      "Hantera licenser",
+      "Spara dokument"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken Microsoft 365-tjänst används främst för scenario 18?",
+    "options": [
+      "Exchange Online",
+      "SharePoint Online",
+      "Teams",
+      "OneDrive for Business"
+    ],
+    "correct": "B"
+  },
+  {
+    "text": "Vilken licens passar bäst för scenario 19?",
+    "options": [
+      "Microsoft 365 Business Basic",
+      "Microsoft 365 Business Standard",
+      "Microsoft 365 Business Premium",
+      "Office 365 E1"
+    ],
+    "correct": "C"
+  },
+  {
+    "text": "Vad är syftet med funktion 20 i Microsoft 365?",
+    "options": [
+      "Öka säkerheten",
+      "Analysera data",
+      "Hantera licenser",
+      "Spara dokument"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken Microsoft 365-tjänst används främst för scenario 21?",
+    "options": [
+      "Exchange Online",
+      "SharePoint Online",
+      "Teams",
+      "OneDrive for Business"
+    ],
+    "correct": "B"
+  },
+  {
+    "text": "Vilken licens passar bäst för scenario 22?",
+    "options": [
+      "Microsoft 365 Business Basic",
+      "Microsoft 365 Business Standard",
+      "Microsoft 365 Business Premium",
+      "Office 365 E1"
+    ],
+    "correct": "C"
+  },
+  {
+    "text": "Vad är syftet med funktion 23 i Microsoft 365?",
+    "options": [
+      "Öka säkerheten",
+      "Analysera data",
+      "Hantera licenser",
+      "Spara dokument"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken Microsoft 365-tjänst används främst för scenario 24?",
+    "options": [
+      "Exchange Online",
+      "SharePoint Online",
+      "Teams",
+      "OneDrive for Business"
+    ],
+    "correct": "B"
+  },
+  {
+    "text": "Vilken licens passar bäst för scenario 25?",
+    "options": [
+      "Microsoft 365 Business Basic",
+      "Microsoft 365 Business Standard",
+      "Microsoft 365 Business Premium",
+      "Office 365 E1"
+    ],
+    "correct": "C"
+  },
+  {
+    "text": "Vad är syftet med funktion 26 i Microsoft 365?",
+    "options": [
+      "Öka säkerheten",
+      "Analysera data",
+      "Hantera licenser",
+      "Spara dokument"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken Microsoft 365-tjänst används främst för scenario 27?",
+    "options": [
+      "Exchange Online",
+      "SharePoint Online",
+      "Teams",
+      "OneDrive for Business"
+    ],
+    "correct": "B"
+  },
+  {
+    "text": "Vilken licens passar bäst för scenario 28?",
+    "options": [
+      "Microsoft 365 Business Basic",
+      "Microsoft 365 Business Standard",
+      "Microsoft 365 Business Premium",
+      "Office 365 E1"
+    ],
+    "correct": "C"
+  },
+  {
+    "text": "Vad är syftet med funktion 29 i Microsoft 365?",
+    "options": [
+      "Öka säkerheten",
+      "Analysera data",
+      "Hantera licenser",
+      "Spara dokument"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken Microsoft 365-tjänst används främst för scenario 30?",
+    "options": [
+      "Exchange Online",
+      "SharePoint Online",
+      "Teams",
+      "OneDrive for Business"
+    ],
+    "correct": "B"
+  },
+  {
+    "text": "Vilken licens passar bäst för scenario 31?",
+    "options": [
+      "Microsoft 365 Business Basic",
+      "Microsoft 365 Business Standard",
+      "Microsoft 365 Business Premium",
+      "Office 365 E1"
+    ],
+    "correct": "C"
+  },
+  {
+    "text": "Vad är syftet med funktion 32 i Microsoft 365?",
+    "options": [
+      "Öka säkerheten",
+      "Analysera data",
+      "Hantera licenser",
+      "Spara dokument"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken Microsoft 365-tjänst används främst för scenario 33?",
+    "options": [
+      "Exchange Online",
+      "SharePoint Online",
+      "Teams",
+      "OneDrive for Business"
+    ],
+    "correct": "B"
+  },
+  {
+    "text": "Vilken licens passar bäst för scenario 34?",
+    "options": [
+      "Microsoft 365 Business Basic",
+      "Microsoft 365 Business Standard",
+      "Microsoft 365 Business Premium",
+      "Office 365 E1"
+    ],
+    "correct": "C"
+  },
+  {
+    "text": "Vad är syftet med funktion 35 i Microsoft 365?",
+    "options": [
+      "Öka säkerheten",
+      "Analysera data",
+      "Hantera licenser",
+      "Spara dokument"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken Microsoft 365-tjänst används främst för scenario 36?",
+    "options": [
+      "Exchange Online",
+      "SharePoint Online",
+      "Teams",
+      "OneDrive for Business"
+    ],
+    "correct": "B"
+  },
+  {
+    "text": "Vilken licens passar bäst för scenario 37?",
+    "options": [
+      "Microsoft 365 Business Basic",
+      "Microsoft 365 Business Standard",
+      "Microsoft 365 Business Premium",
+      "Office 365 E1"
+    ],
+    "correct": "C"
+  },
+  {
+    "text": "Vad är syftet med funktion 38 i Microsoft 365?",
+    "options": [
+      "Öka säkerheten",
+      "Analysera data",
+      "Hantera licenser",
+      "Spara dokument"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken Microsoft 365-tjänst används främst för scenario 39?",
+    "options": [
+      "Exchange Online",
+      "SharePoint Online",
+      "Teams",
+      "OneDrive for Business"
+    ],
+    "correct": "B"
+  },
+  {
+    "text": "Vilken licens passar bäst för scenario 40?",
+    "options": [
+      "Microsoft 365 Business Basic",
+      "Microsoft 365 Business Standard",
+      "Microsoft 365 Business Premium",
+      "Office 365 E1"
+    ],
+    "correct": "C"
+  },
+  {
+    "text": "Vad är syftet med funktion 41 i Microsoft 365?",
+    "options": [
+      "Öka säkerheten",
+      "Analysera data",
+      "Hantera licenser",
+      "Spara dokument"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken Microsoft 365-tjänst används främst för scenario 42?",
+    "options": [
+      "Exchange Online",
+      "SharePoint Online",
+      "Teams",
+      "OneDrive for Business"
+    ],
+    "correct": "B"
+  },
+  {
+    "text": "Vilken licens passar bäst för scenario 43?",
+    "options": [
+      "Microsoft 365 Business Basic",
+      "Microsoft 365 Business Standard",
+      "Microsoft 365 Business Premium",
+      "Office 365 E1"
+    ],
+    "correct": "C"
+  },
+  {
+    "text": "Vad är syftet med funktion 44 i Microsoft 365?",
+    "options": [
+      "Öka säkerheten",
+      "Analysera data",
+      "Hantera licenser",
+      "Spara dokument"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken Microsoft 365-tjänst används främst för scenario 45?",
+    "options": [
+      "Exchange Online",
+      "SharePoint Online",
+      "Teams",
+      "OneDrive for Business"
+    ],
+    "correct": "B"
+  },
+  {
+    "text": "Vilken licens passar bäst för scenario 46?",
+    "options": [
+      "Microsoft 365 Business Basic",
+      "Microsoft 365 Business Standard",
+      "Microsoft 365 Business Premium",
+      "Office 365 E1"
+    ],
+    "correct": "C"
+  },
+  {
+    "text": "Vad är syftet med funktion 47 i Microsoft 365?",
+    "options": [
+      "Öka säkerheten",
+      "Analysera data",
+      "Hantera licenser",
+      "Spara dokument"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken Microsoft 365-tjänst används främst för scenario 48?",
+    "options": [
+      "Exchange Online",
+      "SharePoint Online",
+      "Teams",
+      "OneDrive for Business"
+    ],
+    "correct": "B"
+  },
+  {
+    "text": "Vilken licens passar bäst för scenario 49?",
+    "options": [
+      "Microsoft 365 Business Basic",
+      "Microsoft 365 Business Standard",
+      "Microsoft 365 Business Premium",
+      "Office 365 E1"
+    ],
+    "correct": "C"
+  },
+  {
+    "text": "Vad är syftet med funktion 50 i Microsoft 365?",
+    "options": [
+      "Öka säkerheten",
+      "Analysera data",
+      "Hantera licenser",
+      "Spara dokument"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken Microsoft 365-tjänst används främst för scenario 51?",
+    "options": [
+      "Exchange Online",
+      "SharePoint Online",
+      "Teams",
+      "OneDrive for Business"
+    ],
+    "correct": "B"
+  },
+  {
+    "text": "Vilken licens passar bäst för scenario 52?",
+    "options": [
+      "Microsoft 365 Business Basic",
+      "Microsoft 365 Business Standard",
+      "Microsoft 365 Business Premium",
+      "Office 365 E1"
+    ],
+    "correct": "C"
+  },
+  {
+    "text": "Vad är syftet med funktion 53 i Microsoft 365?",
+    "options": [
+      "Öka säkerheten",
+      "Analysera data",
+      "Hantera licenser",
+      "Spara dokument"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken Microsoft 365-tjänst används främst för scenario 54?",
+    "options": [
+      "Exchange Online",
+      "SharePoint Online",
+      "Teams",
+      "OneDrive for Business"
+    ],
+    "correct": "B"
+  },
+  {
+    "text": "Vilken licens passar bäst för scenario 55?",
+    "options": [
+      "Microsoft 365 Business Basic",
+      "Microsoft 365 Business Standard",
+      "Microsoft 365 Business Premium",
+      "Office 365 E1"
+    ],
+    "correct": "C"
+  },
+  {
+    "text": "Vad är syftet med funktion 56 i Microsoft 365?",
+    "options": [
+      "Öka säkerheten",
+      "Analysera data",
+      "Hantera licenser",
+      "Spara dokument"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken Microsoft 365-tjänst används främst för scenario 57?",
+    "options": [
+      "Exchange Online",
+      "SharePoint Online",
+      "Teams",
+      "OneDrive for Business"
+    ],
+    "correct": "B"
+  },
+  {
+    "text": "Vilken licens passar bäst för scenario 58?",
+    "options": [
+      "Microsoft 365 Business Basic",
+      "Microsoft 365 Business Standard",
+      "Microsoft 365 Business Premium",
+      "Office 365 E1"
+    ],
+    "correct": "C"
+  },
+  {
+    "text": "Vad är syftet med funktion 59 i Microsoft 365?",
+    "options": [
+      "Öka säkerheten",
+      "Analysera data",
+      "Hantera licenser",
+      "Spara dokument"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken Microsoft 365-tjänst används främst för scenario 60?",
+    "options": [
+      "Exchange Online",
+      "SharePoint Online",
+      "Teams",
+      "OneDrive for Business"
+    ],
+    "correct": "B"
+  },
+  {
+    "text": "Vilken licens passar bäst för scenario 61?",
+    "options": [
+      "Microsoft 365 Business Basic",
+      "Microsoft 365 Business Standard",
+      "Microsoft 365 Business Premium",
+      "Office 365 E1"
+    ],
+    "correct": "C"
+  },
+  {
+    "text": "Vad är syftet med funktion 62 i Microsoft 365?",
+    "options": [
+      "Öka säkerheten",
+      "Analysera data",
+      "Hantera licenser",
+      "Spara dokument"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken Microsoft 365-tjänst används främst för scenario 63?",
+    "options": [
+      "Exchange Online",
+      "SharePoint Online",
+      "Teams",
+      "OneDrive for Business"
+    ],
+    "correct": "B"
+  },
+  {
+    "text": "Vilken licens passar bäst för scenario 64?",
+    "options": [
+      "Microsoft 365 Business Basic",
+      "Microsoft 365 Business Standard",
+      "Microsoft 365 Business Premium",
+      "Office 365 E1"
+    ],
+    "correct": "C"
+  },
+  {
+    "text": "Vad är syftet med funktion 65 i Microsoft 365?",
+    "options": [
+      "Öka säkerheten",
+      "Analysera data",
+      "Hantera licenser",
+      "Spara dokument"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken Microsoft 365-tjänst används främst för scenario 66?",
+    "options": [
+      "Exchange Online",
+      "SharePoint Online",
+      "Teams",
+      "OneDrive for Business"
+    ],
+    "correct": "B"
+  },
+  {
+    "text": "Vilken licens passar bäst för scenario 67?",
+    "options": [
+      "Microsoft 365 Business Basic",
+      "Microsoft 365 Business Standard",
+      "Microsoft 365 Business Premium",
+      "Office 365 E1"
+    ],
+    "correct": "C"
+  },
+  {
+    "text": "Vad är syftet med funktion 68 i Microsoft 365?",
+    "options": [
+      "Öka säkerheten",
+      "Analysera data",
+      "Hantera licenser",
+      "Spara dokument"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken Microsoft 365-tjänst används främst för scenario 69?",
+    "options": [
+      "Exchange Online",
+      "SharePoint Online",
+      "Teams",
+      "OneDrive for Business"
+    ],
+    "correct": "B"
+  },
+  {
+    "text": "Vilken licens passar bäst för scenario 70?",
+    "options": [
+      "Microsoft 365 Business Basic",
+      "Microsoft 365 Business Standard",
+      "Microsoft 365 Business Premium",
+      "Office 365 E1"
+    ],
+    "correct": "C"
+  },
+  {
+    "text": "Vad är syftet med funktion 71 i Microsoft 365?",
+    "options": [
+      "Öka säkerheten",
+      "Analysera data",
+      "Hantera licenser",
+      "Spara dokument"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken Microsoft 365-tjänst används främst för scenario 72?",
+    "options": [
+      "Exchange Online",
+      "SharePoint Online",
+      "Teams",
+      "OneDrive for Business"
+    ],
+    "correct": "B"
+  },
+  {
+    "text": "Vilken licens passar bäst för scenario 73?",
+    "options": [
+      "Microsoft 365 Business Basic",
+      "Microsoft 365 Business Standard",
+      "Microsoft 365 Business Premium",
+      "Office 365 E1"
+    ],
+    "correct": "C"
+  },
+  {
+    "text": "Vad är syftet med funktion 74 i Microsoft 365?",
+    "options": [
+      "Öka säkerheten",
+      "Analysera data",
+      "Hantera licenser",
+      "Spara dokument"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken Microsoft 365-tjänst används främst för scenario 75?",
+    "options": [
+      "Exchange Online",
+      "SharePoint Online",
+      "Teams",
+      "OneDrive for Business"
+    ],
+    "correct": "B"
+  },
+  {
+    "text": "Vilken licens passar bäst för scenario 76?",
+    "options": [
+      "Microsoft 365 Business Basic",
+      "Microsoft 365 Business Standard",
+      "Microsoft 365 Business Premium",
+      "Office 365 E1"
+    ],
+    "correct": "C"
+  },
+  {
+    "text": "Vad är syftet med funktion 77 i Microsoft 365?",
+    "options": [
+      "Öka säkerheten",
+      "Analysera data",
+      "Hantera licenser",
+      "Spara dokument"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken Microsoft 365-tjänst används främst för scenario 78?",
+    "options": [
+      "Exchange Online",
+      "SharePoint Online",
+      "Teams",
+      "OneDrive for Business"
+    ],
+    "correct": "B"
+  },
+  {
+    "text": "Vilken licens passar bäst för scenario 79?",
+    "options": [
+      "Microsoft 365 Business Basic",
+      "Microsoft 365 Business Standard",
+      "Microsoft 365 Business Premium",
+      "Office 365 E1"
+    ],
+    "correct": "C"
+  },
+  {
+    "text": "Vad är syftet med funktion 80 i Microsoft 365?",
+    "options": [
+      "Öka säkerheten",
+      "Analysera data",
+      "Hantera licenser",
+      "Spara dokument"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken Microsoft 365-tjänst används främst för scenario 81?",
+    "options": [
+      "Exchange Online",
+      "SharePoint Online",
+      "Teams",
+      "OneDrive for Business"
+    ],
+    "correct": "B"
+  },
+  {
+    "text": "Vilken licens passar bäst för scenario 82?",
+    "options": [
+      "Microsoft 365 Business Basic",
+      "Microsoft 365 Business Standard",
+      "Microsoft 365 Business Premium",
+      "Office 365 E1"
+    ],
+    "correct": "C"
+  },
+  {
+    "text": "Vad är syftet med funktion 83 i Microsoft 365?",
+    "options": [
+      "Öka säkerheten",
+      "Analysera data",
+      "Hantera licenser",
+      "Spara dokument"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken Microsoft 365-tjänst används främst för scenario 84?",
+    "options": [
+      "Exchange Online",
+      "SharePoint Online",
+      "Teams",
+      "OneDrive for Business"
+    ],
+    "correct": "B"
+  },
+  {
+    "text": "Vilken licens passar bäst för scenario 85?",
+    "options": [
+      "Microsoft 365 Business Basic",
+      "Microsoft 365 Business Standard",
+      "Microsoft 365 Business Premium",
+      "Office 365 E1"
+    ],
+    "correct": "C"
+  },
+  {
+    "text": "Vad är syftet med funktion 86 i Microsoft 365?",
+    "options": [
+      "Öka säkerheten",
+      "Analysera data",
+      "Hantera licenser",
+      "Spara dokument"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken Microsoft 365-tjänst används främst för scenario 87?",
+    "options": [
+      "Exchange Online",
+      "SharePoint Online",
+      "Teams",
+      "OneDrive for Business"
+    ],
+    "correct": "B"
+  },
+  {
+    "text": "Vilken licens passar bäst för scenario 88?",
+    "options": [
+      "Microsoft 365 Business Basic",
+      "Microsoft 365 Business Standard",
+      "Microsoft 365 Business Premium",
+      "Office 365 E1"
+    ],
+    "correct": "C"
+  },
+  {
+    "text": "Vad är syftet med funktion 89 i Microsoft 365?",
+    "options": [
+      "Öka säkerheten",
+      "Analysera data",
+      "Hantera licenser",
+      "Spara dokument"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken Microsoft 365-tjänst används främst för scenario 90?",
+    "options": [
+      "Exchange Online",
+      "SharePoint Online",
+      "Teams",
+      "OneDrive for Business"
+    ],
+    "correct": "B"
+  },
+  {
+    "text": "Vilken licens passar bäst för scenario 91?",
+    "options": [
+      "Microsoft 365 Business Basic",
+      "Microsoft 365 Business Standard",
+      "Microsoft 365 Business Premium",
+      "Office 365 E1"
+    ],
+    "correct": "C"
+  },
+  {
+    "text": "Vad är syftet med funktion 92 i Microsoft 365?",
+    "options": [
+      "Öka säkerheten",
+      "Analysera data",
+      "Hantera licenser",
+      "Spara dokument"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken Microsoft 365-tjänst används främst för scenario 93?",
+    "options": [
+      "Exchange Online",
+      "SharePoint Online",
+      "Teams",
+      "OneDrive for Business"
+    ],
+    "correct": "B"
+  },
+  {
+    "text": "Vilken licens passar bäst för scenario 94?",
+    "options": [
+      "Microsoft 365 Business Basic",
+      "Microsoft 365 Business Standard",
+      "Microsoft 365 Business Premium",
+      "Office 365 E1"
+    ],
+    "correct": "C"
+  },
+  {
+    "text": "Vad är syftet med funktion 95 i Microsoft 365?",
+    "options": [
+      "Öka säkerheten",
+      "Analysera data",
+      "Hantera licenser",
+      "Spara dokument"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken Microsoft 365-tjänst används främst för scenario 96?",
+    "options": [
+      "Exchange Online",
+      "SharePoint Online",
+      "Teams",
+      "OneDrive for Business"
+    ],
+    "correct": "B"
+  },
+  {
+    "text": "Vilken licens passar bäst för scenario 97?",
+    "options": [
+      "Microsoft 365 Business Basic",
+      "Microsoft 365 Business Standard",
+      "Microsoft 365 Business Premium",
+      "Office 365 E1"
+    ],
+    "correct": "C"
+  },
+  {
+    "text": "Vad är syftet med funktion 98 i Microsoft 365?",
+    "options": [
+      "Öka säkerheten",
+      "Analysera data",
+      "Hantera licenser",
+      "Spara dokument"
+    ],
+    "correct": "A"
+  },
+  {
+    "text": "Vilken Microsoft 365-tjänst används främst för scenario 99?",
+    "options": [
+      "Exchange Online",
+      "SharePoint Online",
+      "Teams",
+      "OneDrive for Business"
+    ],
+    "correct": "B"
+  },
+  {
+    "text": "Vilken licens passar bäst för scenario 100?",
+    "options": [
+      "Microsoft 365 Business Basic",
+      "Microsoft 365 Business Standard",
+      "Microsoft 365 Business Premium",
+      "Office 365 E1"
+    ],
+    "correct": "C"
   }
 ]
