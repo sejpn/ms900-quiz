@@ -1,0 +1,22 @@
+[
+  {
+    "text": "Vilken Microsoft 365-tjänst används främst för e-post?",
+    "options": ["SharePoint Online", "Exchange Online", "Microsoft Teams", "Yammer"],
+    "correct": "B"
+  },
+  {
+    "text": "Vilken licens inkluderar säkerhetsfunktioner som Microsoft Intune och Azure AD Premium P1?",
+    "options": ["Microsoft 365 Business Basic", "Microsoft 365 Business Standard", "Microsoft 365 Business Premium", "Office 365 E1"],
+    "correct": "C"
+  },
+  {
+    "text": "Vad är syftet med Microsoft Secure Score?",
+    "options": ["Öka prestandan i Teams", "Mäta och förbättra säkerhetsstatusen", "Hantera licensförnyelser", "Skapa SharePoint-sidor"],
+    "correct": "B"
+  },
+  {
+    "text": "Vilken tjänst i Microsoft 365 används för dokumentdelning och intranät?",
+    "options": ["Yammer", "SharePoint Online", "Microsoft Teams", "Stream"],
+    "correct": "B"
+  }
+]
